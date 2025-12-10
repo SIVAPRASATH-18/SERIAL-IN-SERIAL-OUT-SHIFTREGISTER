@@ -71,5 +71,5 @@ RegisterNumber:25016007
 
 **RESULTS**
 
-Thus To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
+Thus To implement  SISO Shift Register using verilog and validating their functionality using their functional tables is verified
 
